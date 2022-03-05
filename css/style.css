@@ -5,6 +5,16 @@
 
 .descriptions {
 	font-family: Arial, sans-serif;
-	color: #ffeb77;
+	color: rgb(255, 235, 119);
 	font-size: 25px;
+}
+
+h1 {
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	color: rgb(255, 235, 119);
+}
+
+h2 {
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	color: rgb(0, 132, 255);
 }
