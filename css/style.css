@@ -1,10 +1,10 @@
 .planetimage {
-	height: auto;
-	width: 50%;
+	height: 100px;
+	width: 100px;
 }
 
 .descriptions {
 	font-family: Arial, sans-serif;
-	color: #008B8B;
-	font-size: 20px;
+	color: #ffeb77;
+	font-size: 25px;
 }
